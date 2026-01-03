@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ayurvedic Support for Diabetes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f8f3;
+            color: #333;
+        }
+        header {
+            background-color: #2f6b3f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h2 {
+            color: #2f6b3f;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+        }
+        footer {
+            background-color: #2f6b3f;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+            font-size: 14px;
+        }
+        .disclaimer {
+            font-size: 13px;
+            color: #555;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ayurvedic Support for Healthy Blood Sugar</h1>
+    <p>Natural approach inspired by Ayurveda</p>
+</header>
+
+<section>
+    <div class="box">
+        <h2>About Ayurveda & Diabetes</h2>
+        <p>
+            Ayurveda is an ancient system of wellness that focuses on balancing the body naturally.
+            Ayurvedic formulations are traditionally used to support healthy metabolism and overall
+            well-being.
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>Key Ayurvedic Ingredients</h2>
+        <ul>
+            <li>Karela (Bitter Gourd)</li>
+            <li>Jamun Seed</li>
+            <li>Gudmar</li>
+            <li>Amla</li>
+            <li>Methi</li>
+        </ul>
+    </div>
+
+    <div class="box">
+        <h2>How It Helps</h2>
+        <p>
+            Ayurvedic herbs are known to support healthy blood sugar levels,
+            improve digestion, and assist in maintaining a balanced lifestyle
+            when used along with proper diet and exercise.
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>Who Can Use</h2>
+        <p>
+            This information is for individuals looking for natural wellness support.
+            Always consult a qualified healthcare professional before starting any supplement.
+        </p>
+    </div>
+
+    <div class="box disclaimer">
+        <strong>Disclaimer:</strong><br>
+        This website is for informational purposes only. The content is not intended to diagnose,
+        treat, cure, or prevent any disease. Please consult your physician before using any
+        Ayurvedic or herbal product.
+    </div>
+</section>
+
+<footer>
+    © 2026 Ayurvedic Wellness | Information Only
+</footer>
+
+</body>
+</html>
