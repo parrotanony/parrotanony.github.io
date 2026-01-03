@@ -1,1 +1,1 @@
-# shayam-ayurveda.github.io
+# parrotanony.github.io
